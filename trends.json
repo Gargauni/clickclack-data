@@ -1,51 +1,27 @@
 [
   {
-    "title": "Сервис с российскими корнями для оплаты услуг фрилансеров привлек $1 млн",
-    "link": "https://www.vedomosti.ru/technology/articles/2025/04/11/1103674-servis-dlya-oplati-uslug-frilanserov",
-    "explanation": "Сервис Stape с российскими корнями привлёк $1 млн для развития платформы оплаты услуг фрилансеров. Эксперты называют перспективы хорошими на фоне роста числа цифровых кочевников.",
-    "date": "2026-08-09T06:05:04.909221",
-    "category": "finance",
-    "image": "https://cdn.vdmsti.ru/image/2025/2t/1i2kt/normal-1y2.jpg"
-  },
-  {
-    "title": "Ford's Affordable Electric Pickup Has a Name—And A Price",
-    "link": "https://www.motor1.com/news/804044/ford-fathom-pickup-price/",
-    "explanation": "Ford назвал свой доступный электрический пикап Fathom, стартовая цена — $29,945.",
-    "date": "2026-08-09T06:04:48.325364",
-    "category": "auto",
-    "image": "https://cdn.motor1.com/images/mgl/2N4M0g/s3/ford-fathom-28-000-electric-pickup.jpg"
-  },
-  {
-    "title": "Цена стойки в российских ЦОДах резко пошла вверх. Рост достигает 30%",
-    "link": "https://www.cnews.ru/news/top/2026-08-06_stoimost_uslug_rossijskih",
-    "explanation": "Средняя цена стойки в московских ЦОДах во II квартале 2026 года достигла 170,8 тыс. руб. (+15,7% г/г), в Санкт-Петербурге — 138 тыс. руб. (+31,3% г/г). Участники рынка связывают подорожание с ограниченным предложением, переходом клиентов на стойки высокой мощности для сложных вычислений и ростом операционных расходов ЦОДов.",
-    "date": "2026-08-09T06:04:19.639126",
-    "category": "tech",
-    "image": null
-  },
-  {
-    "title": "В России готовится к запуску новое производство чипов. Разыскиваются специалисты по литографам ASML",
-    "link": "https://www.cnews.ru/news/top/2026-08-05_v_rossii_gotovitsya_k_zapusku",
-    "explanation": "В Алабуге готовят к запуску завод по производству микрочипов и ищут специалистов для наладки иностранного оборудования, в том числе литографов ASML. Эксперты говорят, что продукция может использоваться для беспилотников, телекоммуникаций и промышленности.",
-    "date": "2026-08-09T06:04:05.883097",
-    "category": "tech",
-    "image": null
-  },
-  {
-    "title": "ВТБ намерен одним из первых запустить операции с криптовалютными инструментами",
-    "link": "https://www.vedomosti.ru/finance/articles/2026/07/28/1216908-vtb-nameren-zapustit-operatsii-s-kriptovalyutnimi-instrumentami",
-    "explanation": "ВТБ планирует одним из первых запустить операции с криптовалютными инструментами. Несколько крупных банков и брокеров также заявили о желании выйти на этот рынок в ближайшее время.",
-    "date": "2026-08-09T06:03:48.845680",
-    "category": "finance",
-    "image": "https://cdn.vdmsti.ru/image/2026/5s/1dxzcz/normal-1sq6.jpg"
-  },
-  {
-    "title": "Wildberries запустит программу партнерских хабов для хранения товаров",
-    "link": "https://www.kommersant.ru/doc/8874892",
-    "explanation": "Wildberries (группа RWB) разрешит открывать партнёрские хабы для хранения товаров в рамках поддержки продавцов и владельцев ПВЗ (пунктов выдачи заказов), сообщили в пресс‑службе компании.",
-    "date": "2026-08-09T06:03:39.702642",
+    "title": "OpenAI запланировала в 2027 году выпустить портативную «умную» колонку в форме «пончика» за $300-400 — Bloomberg",
+    "link": "https://vc.ru/tech/3067029-openai-portativnaya-kolonka-v-forme-ponchika?from=rss",
+    "explanation": "Bloomberg сообщает, что OpenAI планирует выпустить в 2027 году портативную «умную» колонку в форме пончика стоимостью $300–400. Устройство будет оснащено подвижными частями и подсветкой, которые активируются во время взаимодействия.",
+    "date": "2026-08-09T06:44:50.876348",
     "category": "business",
-    "image": "https://im2.kommersant.ru/Issues.photo2/NEWS/2026/08/07/KVR_002159_00019_1_t219_143213.jpg"
+    "image": null
+  },
+  {
+    "title": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
+    "explanation": "OpenAI готовится к выходу на биржу и планирует первичное публичное размещение акций (IPO), сообщает BBC.  \nЭто запустит новую гонку с Anthropic, которая тоже рассматривает возможность публичного размещения.",
+    "date": "2026-08-09T06:44:45.971272",
+    "category": "finance",
+    "image": null
+  },
+  {
+    "title": "SpaceX plans biggest stock market debut ever — and it could make Elon Musk world's first trillionaire - CBS News",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNk9iSTlQMTlSMXBYeUM0QzJsVkJDYW4wUjFhSENRcFl3Q0Ruc21SX1BaTG5ZblNpTUNhUmYySGRXRENWMG9YY1F5VlR5ZlBWZlM1cVVXemx2WE1DZWRyMXRvSlNzUmUzZjJJZENxNUpMSzZkclh1T3BCMmNyTXNMNXBB?oc=5",
+    "explanation": "SpaceX планирует крупнейший в истории IPO (выход на биржу), который, по подсчётам CBS News, может сделать Илона Маска первым в мире триллионером.",
+    "date": "2026-08-09T06:44:37.712943",
+    "category": "finance",
+    "image": null
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
