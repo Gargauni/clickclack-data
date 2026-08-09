@@ -1,27 +1,27 @@
 [
   {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "explanation": "OpenAI замедлила разработку модели Astra, заявив, что она достигла «critical cybersecurity threshold» (критического порога кибербезопасности) — модель могла бы самостоятельно выявлять и проводить кибератаки против традиционно защищённых реальных систем. Astra пока остаётся в разработке, и OpenAI не уточнила сроки дальнейших шагов.",
-    "date": "2026-08-09T06:50:36.021625",
-    "category": "tech",
-    "image": "https://images.unsplash.com/photo-1676299081847-824916de030a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8T3BlbkFJJTIwQXN0cmElMjBjeWJlcnNlY3VyaXR5fGVufDB8MHx8fDE3ODYyNTgyMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "Zoox Can Start Charging For Steering Wheel-Free Robotaxis In Las Vegas",
+    "link": "https://www.motor1.com/news/804141/zoox-robotaxi-approval-opens-a/",
+    "explanation": "Федеральные регуляторы США выдали Zoox двухлетнее исключение на 2 500 автомобилей в Лас‑Вегасе и разрешили компании начать взимать плату за поездки на роботакси без руля. Эксперимент проверит, как американские правила для роботакси будут работать с шаттлами без рулевого управления.",
+    "date": "2026-08-09T08:11:45.052458",
+    "category": "auto",
+    "image": "https://cdn.motor1.com/images/mgl/Znz3wZ/s3/zoox-robotaxi-in-las-vegas.jpg"
   },
   {
-    "title": "AMD is acquiring Taalas, a startup that hardwires AI models into custom chips - qz.com",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwMU4yRUVaYlNHNXVqSVJwMkhkZk1YejJtUmNaeE8yTFFJNlo4RnQ0MTcyYmNqRWNPX0RCeG9SMDFrOUNVRlg4YkFHMW9ubVc4V3VkSThTNHdPR0M0bW9ENlllbktwS2xfTXpqX25reDZRcVN4Smc?oc=5",
-    "explanation": "AMD приобретает стартап Taalas, который hardwires (физически встраивает) модели ИИ в кастомные чипы.",
-    "date": "2026-08-09T06:50:29.923650",
+    "title": "OpenAI acquires presentation startup NextSlide - TechCrunch",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
+    "explanation": "OpenAI приобрела стартап NextSlide, который разрабатывает инструменты для создания презентаций. Об этом пишет TechCrunch.",
+    "date": "2026-08-09T08:11:30.158909",
     "category": "business",
-    "image": "https://images.unsplash.com/photo-1494083306499-e22e4a457632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8QU1EJTIwVGFhbGFzJTIwY2hpcHxlbnwwfDB8fHwxNzg2MjU4MjMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.unsplash.com/photo-1675557009285-b55f562641b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8T3BlbkFJJTIwTmV4dFNsaWRlJTIwcHJlc2VudGF0aW9ufGVufDB8MHx8fDE3ODYyNjMwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Elon Musk's massive Terafab chip-making facility starts to take shape — 100 million square feet of manufacturing space and $16.8B initial capital investment - Tom's Hardware",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb1poWDNSN3BWU085TEM0d1RFQnUwNVdCNnZRdVNWNkMzMDlGMlNkNWp6NGs0X09seFgxVDl2QUVWUmNxQ09XQWg2YWZIcjFBN0JDd1h4TUJhU1A3QjVrLUlpUnVVanduUTltdW9PcEN6eTcxUUFSbGhlaUQxdlJLcXhqV1ZwSkdkWDRLM1RiRm9kTnBXUGE1blFHOUljOWxxRzBvb1A0Z282SU9ieEptaGxEN2dfRlBId2RTczRrWEtFeEtySlRZc1RETjZLaVc1Q3lfMUlqMHRNeFZId1YwWFYzREFOak5lSzhJekJGak1xTlgxUTJZaTdSVnJ2WnhHc1U0?oc=5",
-    "explanation": "Строительство гигантского чипзавода Terafab Илона Маска начинает обретать очертания: проект включает 100 млн кв. футов производственных площадей и первоначальные инвестиции $16,8 млрд.",
-    "date": "2026-08-09T06:50:22.305253",
-    "category": "tech",
-    "image": "https://images.unsplash.com/photo-1782189752402-4a80e8cca57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8RWxvbiUyME11c2slMjBjaGlwJTIwZmFjdG9yeSUyMGNvbnN0cnVjdGlvbnxlbnwwfDB8fHwxNzg2MjU4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "Издатель GTA 6 получил $1,5 млрд выручки после старта предзаказов",
+    "link": "https://www.kommersant.ru/doc/8875040",
+    "explanation": "Издатель игр Take-Two Interactive во втором квартале получил $1,53 млрд выручки, когда стартовали предзаказы Grand Theft Auto VI (GTA 6). Об этом сообщает The Variety со ссылкой на финансовую отчётность компании.",
+    "date": "2026-08-09T08:11:22.008340",
+    "category": "business",
+    "image": "https://images.unsplash.com/photo-1636908067903-abaedc57ab2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8VGFrZS1Ud28lMjBHVEElMjA2JTIwZ2FtZSUyMGNvbnRyb2xsZXJ8ZW58MHwwfHx8MTc4NjI2MzA4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
