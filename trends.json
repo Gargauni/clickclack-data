@@ -1,27 +1,27 @@
 [
   {
-    "title": "OpenAI запланировала в 2027 году выпустить портативную «умную» колонку в форме «пончика» за $300-400 — Bloomberg",
-    "link": "https://vc.ru/tech/3067029-openai-portativnaya-kolonka-v-forme-ponchika?from=rss",
-    "explanation": "Bloomberg сообщает, что OpenAI планирует выпустить в 2027 году портативную «умную» колонку в форме пончика стоимостью $300–400. Устройство будет оснащено подвижными частями и подсветкой, которые активируются во время взаимодействия.",
-    "date": "2026-08-09T06:44:50.876348",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "explanation": "OpenAI замедлила разработку модели Astra, заявив, что она достигла «critical cybersecurity threshold» (критического порога кибербезопасности) — модель могла бы самостоятельно выявлять и проводить кибератаки против традиционно защищённых реальных систем. Astra пока остаётся в разработке, и OpenAI не уточнила сроки дальнейших шагов.",
+    "date": "2026-08-09T06:50:36.021625",
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1676299081847-824916de030a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8T3BlbkFJJTIwQXN0cmElMjBjeWJlcnNlY3VyaXR5fGVufDB8MHx8fDE3ODYyNTgyMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "title": "AMD is acquiring Taalas, a startup that hardwires AI models into custom chips - qz.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwMU4yRUVaYlNHNXVqSVJwMkhkZk1YejJtUmNaeE8yTFFJNlo4RnQ0MTcyYmNqRWNPX0RCeG9SMDFrOUNVRlg4YkFHMW9ubVc4V3VkSThTNHdPR0M0bW9ENlllbktwS2xfTXpqX25reDZRcVN4Smc?oc=5",
+    "explanation": "AMD приобретает стартап Taalas, который hardwires (физически встраивает) модели ИИ в кастомные чипы.",
+    "date": "2026-08-09T06:50:29.923650",
     "category": "business",
-    "image": null
+    "image": "https://images.unsplash.com/photo-1494083306499-e22e4a457632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8QU1EJTIwVGFhbGFzJTIwY2hpcHxlbnwwfDB8fHwxNzg2MjU4MjMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
-    "explanation": "OpenAI готовится к выходу на биржу и планирует первичное публичное размещение акций (IPO), сообщает BBC.  \nЭто запустит новую гонку с Anthropic, которая тоже рассматривает возможность публичного размещения.",
-    "date": "2026-08-09T06:44:45.971272",
-    "category": "finance",
-    "image": null
-  },
-  {
-    "title": "SpaceX plans biggest stock market debut ever — and it could make Elon Musk world's first trillionaire - CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNk9iSTlQMTlSMXBYeUM0QzJsVkJDYW4wUjFhSENRcFl3Q0Ruc21SX1BaTG5ZblNpTUNhUmYySGRXRENWMG9YY1F5VlR5ZlBWZlM1cVVXemx2WE1DZWRyMXRvSlNzUmUzZjJJZENxNUpMSzZkclh1T3BCMmNyTXNMNXBB?oc=5",
-    "explanation": "SpaceX планирует крупнейший в истории IPO (выход на биржу), который, по подсчётам CBS News, может сделать Илона Маска первым в мире триллионером.",
-    "date": "2026-08-09T06:44:37.712943",
-    "category": "finance",
-    "image": null
+    "title": "Elon Musk's massive Terafab chip-making facility starts to take shape — 100 million square feet of manufacturing space and $16.8B initial capital investment - Tom's Hardware",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb1poWDNSN3BWU085TEM0d1RFQnUwNVdCNnZRdVNWNkMzMDlGMlNkNWp6NGs0X09seFgxVDl2QUVWUmNxQ09XQWg2YWZIcjFBN0JDd1h4TUJhU1A3QjVrLUlpUnVVanduUTltdW9PcEN6eTcxUUFSbGhlaUQxdlJLcXhqV1ZwSkdkWDRLM1RiRm9kTnBXUGE1blFHOUljOWxxRzBvb1A0Z282SU9ieEptaGxEN2dfRlBId2RTczRrWEtFeEtySlRZc1RETjZLaVc1Q3lfMUlqMHRNeFZId1YwWFYzREFOak5lSzhJekJGak1xTlgxUTJZaTdSVnJ2WnhHc1U0?oc=5",
+    "explanation": "Строительство гигантского чипзавода Terafab Илона Маска начинает обретать очертания: проект включает 100 млн кв. футов производственных площадей и первоначальные инвестиции $16,8 млрд.",
+    "date": "2026-08-09T06:50:22.305253",
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1782189752402-4a80e8cca57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8RWxvbiUyME11c2slMjBjaGlwJTIwZmFjdG9yeSUyMGNvbnN0cnVjdGlvbnxlbnwwfDB8fHwxNzg2MjU4MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
