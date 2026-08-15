@@ -1,27 +1,27 @@
 [
   {
-    "title": "Потребители потратили 952 млрд рублей на онлайн-заказы продуктов питания",
-    "link": "https://www.kommersant.ru/doc/8879149",
-    "explanation": "Оборот рынка онлайн-продаж продуктов питания (e-grocery) в I полугодии 2026 года составил 952 млрд руб., что на 23,9% больше год к году, подсчитали Infoline по данным, предоставленным «Ъ».  \nАналитики отмечают, что темп роста рынка продолжает замедляться.",
-    "date": "2026-08-15T07:44:56.138527",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8Z3JvY2VyeSUyMGRlbGl2ZXJ5JTIwc2hvcHBpbmctY2FydHxlbnwwfDB8fHwxNzg2Nzc5ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "title": "Российский бизнес кратно увеличил потребление зарубежных больших языковых моделей",
-    "link": "https://www.kommersant.ru/doc/8878400",
-    "explanation": "По результатам опроса \"Ъ\" облачных платформ российские компании резко увеличили спрос на зарубежные большие языковые модели (LLM). На платформе Yandex AI Studio в I полугодии 2026 года обработали 597 млрд токенов, что в 18 раз больше, чем в I полугодии 2025 года.",
-    "date": "2026-08-15T07:44:50.537275",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1762329372047-5aadd8e1bd37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8eWFuZGV4JTIwYWktc3R1ZGlvJTIwdG9rZW5zfGVufDB8MHx8fDE3ODY3Nzk4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "title": "Ozon удалили из магазина приложений для Android без причины и предупреждения",
-    "link": "https://www.cnews.ru/news/top/2026-08-15_v_android_ozonovaya_dyraprilozheniya",
-    "explanation": "Google Play удалил все приложения маркетплейса Ozon без объяснения причин и без предупреждения, сроки восстановления не названы.  \nВ Apple App Store приложения Ozon пока доступны; ранее из Google Play уже удаляли утилиты холдинга VK и нацмессенджер «Макс».",
-    "date": "2026-08-15T07:44:41.790656",
+    "title": "«Битрикс24» запускает корпоративный ИИ нового класса для выполнения рабочих задач и создания приложений",
+    "link": "https://www.cnews.ru/news/line/2026-08-13_bitriks24_zapuskaet_korporativnyj",
+    "explanation": "Битрикс24 сообщила о запуске корпоративного ИИ нового класса для выполнения рабочих задач и создания приложений.",
+    "date": "2026-08-15T13:44:56.788451",
     "category": "tech",
-    "image": "https://images.unsplash.com/photo-1762340914620-b61fccca2c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8b3pvbiUyMGdvb2dsZS1wbGF5JTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzg2Nzc5ODgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.unsplash.com/photo-1739036868260-c26b292cd85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8Qml0cml4MjQlMjBBSSUyMGludGVyZmFjZXxlbnwwfDB8fHwxNzg2ODAxNDk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "title": "Приложения Ozon, Ozon Travel и других сервисов компании стали недоступны в Google Play",
+    "link": "https://vc.ru/services/3079409-nedostupnost-prilozhenij-ozon-v-google-play?from=rss",
+    "explanation": "Приложения Ozon, Ozon Travel и ряд связанных сервисов компании стали недоступны в Google Play. Это случилось после удаления из магазина приложения «Ozon Банк».",
+    "date": "2026-08-15T13:44:38.651665",
+    "category": "business",
+    "image": "https://leonardo.osnova.io/6193e8d6-3df9-596d-9db9-9ac4411e0346/"
+  },
+  {
+    "title": "Банки заблокируют переводы при обнаружении на устройствах клиентов вредоносного ПО",
+    "link": "https://www.klerk.ru/buh/news/703757/",
+    "explanation": "С 1 марта 2027 года банки и телекоммуникационные компании обязаны останавливать подозрительные переводы, если на смартфонах или компьютерах клиентов найдут вредоносное ПО. Для бизнеса это значит риск блокировок, задержек платежей и срыва сроков — бухгалтеру нужно планировать резерв ликвидности и переносы платежных графиков. Действия: проверить и обновить антивирусы, очистить или изолировать заражённые устройства, иметь резервные каналы для переводов и немедленно фиксировать и сообщать банку каждый инцидент в учёте.",
+    "date": "2026-08-15T13:44:24.383841",
+    "category": "accounting",
+    "image": "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZSUyMGJhbmslMjBtYWx3YXJlJTIwY29tcHV0ZXJ8ZW58MHwwfHx8MTc4NjgwMTQ2OXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
