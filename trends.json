@@ -1,27 +1,27 @@
 [
   {
-    "title": "Внебиржевой курс доллара превысил 85 рублей впервые за пять месяцев",
-    "link": "https://www.kommersant.ru/doc/8889834",
-    "explanation": "На внебиржевом рынке курс доллара сегодня достиг 85,1 руб.  \nДоллар превысил отметку 85 руб. впервые с 20 марта.",
-    "date": "2026-08-15T03:07:31.154489",
+    "title": "Потребители потратили 952 млрд рублей на онлайн-заказы продуктов питания",
+    "link": "https://www.kommersant.ru/doc/8879149",
+    "explanation": "Оборот рынка онлайн-продаж продуктов питания (e-grocery) в I полугодии 2026 года составил 952 млрд руб., что на 23,9% больше год к году, подсчитали Infoline по данным, предоставленным «Ъ».  \nАналитики отмечают, что темп роста рынка продолжает замедляться.",
+    "date": "2026-08-15T07:44:56.138527",
     "category": "business",
-    "image": null
+    "image": "https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8Z3JvY2VyeSUyMGRlbGl2ZXJ5JTIwc2hvcHBpbmctY2FydHxlbnwwfDB8fHwxNzg2Nzc5ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Google Play удалил приложения Ozon, Ozon Fresh и Ozon Seller",
-    "link": "https://www.klerk.ru/buh/news/704704/",
-    "explanation": "Google Play удалил приложения Ozon, Ozon Fresh и Ozon Seller — Android‑пользователи больше не могут скачать или обновлять их через магазин.  \nБухгалтерии: получите выгрузки продаж и фискальных чеков через веб‑кабинет или API Ozon, сохраните копии транзакций как доказательства выручки и проверьте сроки поступлений/сверок — возможны задержки, которые потребуют корректировок в учете и отчетности.",
-    "date": "2026-08-15T03:07:24.803076",
-    "category": "accounting",
-    "image": null
+    "title": "Российский бизнес кратно увеличил потребление зарубежных больших языковых моделей",
+    "link": "https://www.kommersant.ru/doc/8878400",
+    "explanation": "По результатам опроса \"Ъ\" облачных платформ российские компании резко увеличили спрос на зарубежные большие языковые модели (LLM). На платформе Yandex AI Studio в I полугодии 2026 года обработали 597 млрд токенов, что в 18 раз больше, чем в I полугодии 2025 года.",
+    "date": "2026-08-15T07:44:50.537275",
+    "category": "business",
+    "image": "https://images.unsplash.com/photo-1762329372047-5aadd8e1bd37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8eWFuZGV4JTIwYWktc3R1ZGlvJTIwdG9rZW5zfGVufDB8MHx8fDE3ODY3Nzk4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Структурный дефицит ликвидности в банках вырос до 2,7 трлн рублей",
-    "link": "https://www.kommersant.ru/doc/8889830",
-    "explanation": "Структурный дефицит ликвидности банковского сектора по данным Банка России на 13 августа вырос до 2,7 трлн руб. (ранее 2,57 трлн руб.), то есть долг кредитных организаций перед ЦБ превышает их размещения на корсчетах и депозитах у регулятора.",
-    "date": "2026-08-15T03:07:16.899012",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1565371768838-2479eb537a78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8Y2VudHJhbCUyMGJhbmslMjBiYW5rJTIwcnVibGV8ZW58MHwwfHx8MTc4Njc2MzIzN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "Ozon удалили из магазина приложений для Android без причины и предупреждения",
+    "link": "https://www.cnews.ru/news/top/2026-08-15_v_android_ozonovaya_dyraprilozheniya",
+    "explanation": "Google Play удалил все приложения маркетплейса Ozon без объяснения причин и без предупреждения, сроки восстановления не названы.  \nВ Apple App Store приложения Ozon пока доступны; ранее из Google Play уже удаляли утилиты холдинга VK и нацмессенджер «Макс».",
+    "date": "2026-08-15T07:44:41.790656",
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1762340914620-b61fccca2c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8b3pvbiUyMGdvb2dsZS1wbGF5JTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzg2Nzc5ODgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
