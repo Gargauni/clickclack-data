@@ -1,27 +1,27 @@
 [
   {
-    "title": "«Контур.Эльба» и «Диадок» представили интеграционное решение для защиты бизнеса от штрафов",
-    "link": "https://www.cnews.ru/news/line/2026-08-13_konturelba_i_diadok",
-    "explanation": "«Контур.Эльба» и «Контур.Диадок» представили бесшовную интеграцию учетной системы и сервиса электронного документооборота (ЭДО). Интеграция автоматизирует обмен и сверку документов прямо из Эльбы, чтобы снизить риск штрафов при работе со счётами и актами.",
-    "date": "2026-08-16T03:29:27.275329",
+    "title": "Больше половины российских компаний используют ИИ для создания контента",
+    "link": "https://www.klerk.ru/buh/news/704076/",
+    "explanation": "Более половины российских компаний используют нейросети для создания контента, чаще всего — для написания текстов и поиска идей; 72% отмечают, что ИИ помогает экономить время. Для бухучёта это означает рост подписок на SaaS и прочих сервисных расходов, возможную экономию ФОТ или перераспределение задач — отразите подписки в операционных расходах, оцените вопрос капитализации затрат на разработку/внедрение ИИ и учтите НДС по контрактам. Бухгалтеру зафиксировать договоры и платежи по ИИ, сохранять логи/промпты как подтверждение выполнения работ и прописать в учётной политике процедуру проверки и утверждения контента человеком.",
+    "date": "2026-08-16T07:47:32.197385",
+    "category": "accounting",
+    "image": "https://images.unsplash.com/photo-1735825764485-93a381fd5779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwaW52b2ljZSUyMGNvbnRyYWN0fGVufDB8MHx8fDE3ODY4NjY0NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "title": "Не то, чем кажется. Штатный антивирус Microsoft оказался открытой дверью для хакеров, в опасности сотни миллионов человек",
+    "link": "https://www.cnews.ru/news/top/2026-08-14_ne_tochem_kazhetsyashtatnyj",
+    "explanation": "В Microsoft Defender (штатный антивирус Windows 11) обнаружена уязвимость, позволяющая злоумышленникам проникать на ПК и похищать файлы. Патча пока нет, а удалить Defender почти невозможно — он глубоко интегрирован в систему, поэтому проблема затрагивает сотни миллионов устройств.",
+    "date": "2026-08-16T07:47:17.922499",
     "category": "tech",
-    "image": "https://images.unsplash.com/photo-1600267204091-5c1ab8b10c02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8ZWxiYSUyMGRpYWRvYyUyMGUtZG9jdW1lbnRzfGVufDB8MHx8fDE3ODY4NTA5Njh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8TWljcm9zb2Z0JTIwRGVmZW5kZXIlMjBXaW5kb3dzJTIwbGFwdG9wfGVufDB8MHx8fDE3ODY4NjY0Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "ЦБ будет отслеживать мисселинг при продаже криптовалют",
-    "link": "https://www.kommersant.ru/doc/8879142",
-    "explanation": "Банк России будет отслеживать практики мисселинга при продаже криптовалют и цифровых инструментов, сообщил зампред Михаил Мамута. Регулирование цифровых валют, по его словам, новое и только вводится.",
-    "date": "2026-08-16T03:29:13.122938",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1642060731115-ee52a3c78b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8QmFuayUyMG9mJTIwUnVzc2lhJTIwY3J5cHRvY3VycmVuY3klMjByZWd1bGF0b3J8ZW58MHwwfHx8MTc4Njg1MDk1M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "title": "Из Google Play удалили приложения Ozon",
-    "link": "https://www.kommersant.ru/doc/8890134",
-    "explanation": "Из Google Play удалены приложения Ozon (MOEX: OZON): основное приложение маркетплейса и сервисы Ozon Fresh, Ozon Seller, Ozon Job и Ozon Travel.",
-    "date": "2026-08-16T03:29:04.074494",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1662057168153-c0d62a4025f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8T3pvbiUyMEdvb2dsZSUyMFBsYXklMjBzbWFydHBob25lfGVufDB8MHx8fDE3ODY4NTA5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "С 1 сентября 2026 года начнет работу система автоштрафов за нарушения при продаже маркированных товаров",
+    "link": "https://www.retail.ru/news/s-1-sentyabrya-2026-goda-nachnet-rabotu-sistema-avtoshtrafov-za-narusheniya-pri--13-avgusta-2026-281010/",
+    "explanation": "С 1 сентября 2026 года начнет работу система автоштрафов за нарушения при продаже маркированных товаров.  \nМеры будут применяться к розничным продавцам и торговым точкам при выявлении нарушений маркировки.",
+    "date": "2026-08-16T07:47:07.670944",
+    "category": "retail",
+    "image": "https://www.retail.ru/upload/iblock/d51/aqhxd304nnladoxem14lxfvm1kfcjwwa/Raznoe_variant_3.png"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
