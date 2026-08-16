@@ -1,27 +1,27 @@
 [
   {
-    "title": "Больше половины российских компаний используют ИИ для создания контента",
-    "link": "https://www.klerk.ru/buh/news/704076/",
-    "explanation": "Более половины российских компаний используют нейросети для создания контента, чаще всего — для написания текстов и поиска идей; 72% отмечают, что ИИ помогает экономить время. Для бухучёта это означает рост подписок на SaaS и прочих сервисных расходов, возможную экономию ФОТ или перераспределение задач — отразите подписки в операционных расходах, оцените вопрос капитализации затрат на разработку/внедрение ИИ и учтите НДС по контрактам. Бухгалтеру зафиксировать договоры и платежи по ИИ, сохранять логи/промпты как подтверждение выполнения работ и прописать в учётной политике процедуру проверки и утверждения контента человеком.",
-    "date": "2026-08-16T07:47:32.197385",
+    "title": "Time: управляющая магазином нейросеть Claude впервые уволила человека",
+    "link": "https://www.kommersant.ru/doc/8890394",
+    "explanation": "Time пишет, что модель ИИ Claude, которой доверили управление магазином Andon Market в Сан‑Франциско, уволила сотрудника.  \nЖурнал называет это первым известным случаем, когда решение об увольнении приняла LLM (большая языковая модель).",
+    "date": "2026-08-16T13:49:46.310811",
+    "category": "business",
+    "image": "https://images.unsplash.com/photo-1693724818236-86b6f150db99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8QW5kb24lMjBNYXJrZXQlMjBDbGF1ZGUlMjBTYW4lMjBGcmFuY2lzY298ZW58MHwwfHx8MTc4Njg4ODE4N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "title": "Эксперты предупредили об опасности загрузки рабочих документов в нейросети",
+    "link": "https://www.klerk.ru/buh/news/704458/",
+    "explanation": "Эксперты предупреждают: договоры, отчётность и персональные данные не следует передавать в публичные ИИ‑сервисы (чат‑боты, облачные модели) — это повышает риск утечки данных и нарушений требований по хранению и отчётности.  \nБухгалтерии и владельцам бизнеса рекомендуют ввести внутренние правила: запрет на загрузку чувствительных файлов, список разрешённых корпоративных/локальных решений, процедуру проверки политики хранения данных и журнал контроля загрузок.",
+    "date": "2026-08-16T13:49:29.416900",
     "category": "accounting",
-    "image": "https://images.unsplash.com/photo-1735825764485-93a381fd5779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwaW52b2ljZSUyMGNvbnRyYWN0fGVufDB8MHx8fDE3ODY4NjY0NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8Y29udHJhY3RzJTIwcmVwb3J0cyUyMGNvbXB1dGVyfGVufDB8MHx8fDE3ODY4ODgxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Не то, чем кажется. Штатный антивирус Microsoft оказался открытой дверью для хакеров, в опасности сотни миллионов человек",
-    "link": "https://www.cnews.ru/news/top/2026-08-14_ne_tochem_kazhetsyashtatnyj",
-    "explanation": "В Microsoft Defender (штатный антивирус Windows 11) обнаружена уязвимость, позволяющая злоумышленникам проникать на ПК и похищать файлы. Патча пока нет, а удалить Defender почти невозможно — он глубоко интегрирован в систему, поэтому проблема затрагивает сотни миллионов устройств.",
-    "date": "2026-08-16T07:47:17.922499",
-    "category": "tech",
-    "image": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8TWljcm9zb2Z0JTIwRGVmZW5kZXIlMjBXaW5kb3dzJTIwbGFwdG9wfGVufDB8MHx8fDE3ODY4NjY0Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "title": "С 1 сентября 2026 года начнет работу система автоштрафов за нарушения при продаже маркированных товаров",
-    "link": "https://www.retail.ru/news/s-1-sentyabrya-2026-goda-nachnet-rabotu-sistema-avtoshtrafov-za-narusheniya-pri--13-avgusta-2026-281010/",
-    "explanation": "С 1 сентября 2026 года начнет работу система автоштрафов за нарушения при продаже маркированных товаров.  \nМеры будут применяться к розничным продавцам и торговым точкам при выявлении нарушений маркировки.",
-    "date": "2026-08-16T07:47:07.670944",
-    "category": "retail",
-    "image": "https://www.retail.ru/upload/iblock/d51/aqhxd304nnladoxem14lxfvm1kfcjwwa/Raznoe_variant_3.png"
+    "title": "Что делать, если карты Visa и Mastercard перестали работать при оплате онлайн: инструкция от эксперта",
+    "link": "https://www.klerk.ru/buh/news/704493/",
+    "explanation": "Visa и Mastercard временно перестали работать при оплате онлайн; принимать платежи по‑прежнему можно через МИР, российские эквайреры, СБП (система быстрых платежей), счета/QR и электронные кошельки.  \nБухгалтерии: проверьте договоры эквайринга и ставки комиссий, перенастройте в учёте коды способов оплаты и расчётные счета, чтобы правильно отражать поступления, комиссии и НДС в проводках и отчётности.  \nОбновите настройки онлайн‑кассы (фискализация), опишите процедуру возвратов/рефандов через новые каналы и согласуйте с маркетингом уведомления клиентам о доступных способах оплаты.",
+    "date": "2026-08-16T13:49:14.100545",
+    "category": "accounting",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8YmFuayUyMGNhcmQlMjBwYXltZW50JTIwdGVybWluYWwlMjBRUiUyMGNvZGV8ZW58MHwwfHx8MTc4Njg4ODE1NXww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
