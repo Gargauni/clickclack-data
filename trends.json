@@ -1,27 +1,27 @@
 [
   {
-    "title": "Пользователи столкнулись с ошибками оплаты сервисов из-за отказа зарубежных SSL‑сертификатов",
-    "link": "https://www.klerk.ru/buh/news/705602/",
-    "explanation": "После перехода на национальные SSL‑сертификаты пользователи в Chrome, Safari и других браузерах стали получать ошибки при открытии платежных модулей, из‑за чего платежи не проходят.  \nБухгалтерии и владельцам: возможна упущенная выручка, задержки поступлений и увеличение возвратов — срочно проверьте логи эквайринга и банковские выписки за последние 24–72 часа, сверьте кассу, согласуйте с эквайером и провайдером сертификатов срочное исправление (откат сертификата или добавление цепочки доверия) и сохраните подтверждения отказов для рекламаций и отчетности.",
-    "date": "2026-08-22T10:33:58.241170",
-    "category": "accounting",
-    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8cGF5bWVudCUyMGdhdGV3YXklMjBicm93c2VyJTIwU1NMJTIwY2VydGlmaWNhdGV8ZW58MHwwfHx8MTc4NzM5NDgzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "«Додо пицца» внедрит ИТ-платформу для выплаты самозанятым до 5 миллиардов в год",
+    "link": "https://www.cnews.ru/news/top/2026-08-21_dodo_pitstsa_vnedrit_it-platformu",
+    "explanation": "Одна из крупнейших пиццерий России, «Додо пицца» (оборот 113 млрд руб.), внедрит ИТ‑платформу для выплат самозанятым до 5 млрд руб. в год. Платформа будет использоваться, чтобы снизить риск переквалификации курьеров из самозанятых (6% налог) в штатных сотрудников с полным соцпакетом. Внедрять решение начнёт компания, в которую инвестировал «Ростелеком».",
+    "date": "2026-08-22T10:58:49.039523",
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1659353742082-b3c1f2032b22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8NHx8cGl6emElMjBjb3VyaWVyJTIwbGFwdG9wfGVufDB8MHx8fDE3ODczOTYzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "ФАС проверила более 340 заказчиков и выявила почти 8 тысяч просрочек оплаты по контрактам с МСП",
-    "link": "https://www.klerk.ru/buh/news/705628/",
-    "explanation": "ФАС с начала 2026 года проверила более 340 заказчиков и зафиксировала 7 886 фактов просрочек оплаты по контрактам с МСП; нарушения выявлены у 311 крупных заказчиков, им грозят административные санкции. Для малого бизнеса просрочки означают риск кассовых разрывов и необходимость отражать в учёте начисленные штрафы и недополученные поступления. Бухгалтеру: сверить все контракты и акты по датам, оформить претензии и требования по неустойке, документально фиксировать просрочки и при необходимости готовить жалобы в ФАС, чтобы минимизировать налоговые и кассовые риски.",
-    "date": "2026-08-22T10:33:50.429325",
-    "category": "accounting",
-    "image": "https://images.unsplash.com/photo-1653378972269-aae6d81e2c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8aW52b2ljZSUyMGNvbnRyYWN0JTIwcGF5bWVudHxlbnwwfDB8fHwxNzg3Mzk0ODMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "Трафик из «Алисы AI» в российский e-commerce вырос 4,6 раз с начала года",
+    "link": "https://www.cnews.ru/news/line/2026-08-21_trafik_iz_alisy_ai_v_rossijskij",
+    "explanation": "Трафик из «Алисы AI» в российский e‑commerce вырос в 4,6 раза с начала года. ИИ становится новой точкой входа для покупателей в онлайн‑торговлю.",
+    "date": "2026-08-22T10:58:30.272088",
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1781643614778-3f20d9768256?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8N3x8WWFuZGV4JTIwQWxpY2UlMjBlLWNvbW1lcmNlfGVufDB8MHx8fDE3ODczOTYzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Продавцы без сайтов смогут получать заказы из Поиска и чата с Алисой AI",
-    "link": "https://www.retail.ru/news/prodavtsy-bez-saytov-smogut-poluchat-zakazy-iz-poiska-i-chata-s-alisoy-ai-21-avgusta-2026-281279/",
-    "explanation": "Яндекс позволит продавцам без сайтов принимать заказы прямо из Поиска и чата с Алисой AI.",
-    "date": "2026-08-22T10:33:43.881499",
-    "category": "retail",
-    "image": "https://www.retail.ru/upload/iblock/a89/a11bpav186tsqvbiapzxpjmq1mozvas0/Group_2.jpg"
+    "title": "Wildberries объявила о запуске сети партнерских пунктов приема товаров",
+    "link": "https://www.kommersant.ru/doc/8905845",
+    "explanation": "Wildberries открыл приём заявок на запуск партнёрских пунктов приёма товаров (ППТ) по новой программе. Маркетплейс обещает начислять вознаграждение за каждую принятую коробку.",
+    "date": "2026-08-22T10:58:16.020025",
+    "category": "business",
+    "image": null
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
