@@ -1,27 +1,27 @@
 [
   {
-    "title": "Wildberries ввела добровольное страхование товаров в ПФЦ от атак БПЛА",
-    "link": "https://www.kommersant.ru/doc/8905802",
-    "explanation": "Wildberries запустила добровольную программу страхования для продавцов: покрывает полное уничтожение товаров в партнёрских фулфилмент‑центрах (ПФЦ) вследствие теракта или диверсии, включая атаки и падение БПЛА с обломками. Об этом сообщила пресс‑служба Wildberries & Russ.",
-    "date": "2026-08-22T07:47:21.165419",
-    "category": "business",
-    "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8d2FyZWhvdXNlJTIwZHJvbmUlMjBwYWNrYWdlc3xlbnwwfDB8fHwxNzg3Mzg0ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "title": "Пользователи столкнулись с ошибками оплаты сервисов из-за отказа зарубежных SSL‑сертификатов",
+    "link": "https://www.klerk.ru/buh/news/705602/",
+    "explanation": "После перехода на национальные SSL‑сертификаты пользователи в Chrome, Safari и других браузерах стали получать ошибки при открытии платежных модулей, из‑за чего платежи не проходят.  \nБухгалтерии и владельцам: возможна упущенная выручка, задержки поступлений и увеличение возвратов — срочно проверьте логи эквайринга и банковские выписки за последние 24–72 часа, сверьте кассу, согласуйте с эквайером и провайдером сертификатов срочное исправление (откат сертификата или добавление цепочки доверия) и сохраните подтверждения отказов для рекламаций и отчетности.",
+    "date": "2026-08-22T10:33:58.241170",
+    "category": "accounting",
+    "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8cGF5bWVudCUyMGdhdGV3YXklMjBicm93c2VyJTIwU1NMJTIwY2VydGlmaWNhdGV8ZW58MHwwfHx8MTc4NzM5NDgzOHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "Приложения Ozon, Ozon Travel, Ozon Fresh и других сервисов компании снова появились в Google Play",
-    "link": "https://vc.ru/services/3090120-prilozheniya-ozon-snova-v-google-play?from=rss",
-    "explanation": "Приложения Ozon, Ozon Travel, Ozon Fresh и другие сервисы компании снова появились в Google Play. Ранее их удалили из магазина в середине августа 2026 года.",
-    "date": "2026-08-22T07:47:11.931253",
-    "category": "business",
-    "image": "https://leonardo.osnova.io/fcdb909b-e68e-5497-98bb-5b4d4082c44b/"
+    "title": "ФАС проверила более 340 заказчиков и выявила почти 8 тысяч просрочек оплаты по контрактам с МСП",
+    "link": "https://www.klerk.ru/buh/news/705628/",
+    "explanation": "ФАС с начала 2026 года проверила более 340 заказчиков и зафиксировала 7 886 фактов просрочек оплаты по контрактам с МСП; нарушения выявлены у 311 крупных заказчиков, им грозят административные санкции. Для малого бизнеса просрочки означают риск кассовых разрывов и необходимость отражать в учёте начисленные штрафы и недополученные поступления. Бухгалтеру: сверить все контракты и акты по датам, оформить претензии и требования по неустойке, документально фиксировать просрочки и при необходимости готовить жалобы в ФАС, чтобы минимизировать налоговые и кассовые риски.",
+    "date": "2026-08-22T10:33:50.429325",
+    "category": "accounting",
+    "image": "https://images.unsplash.com/photo-1653378972269-aae6d81e2c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDIxNzk1fDB8MXxzZWFyY2h8MXx8aW52b2ljZSUyMGNvbnRyYWN0JTIwcGF5bWVudHxlbnwwfDB8fHwxNzg3Mzk0ODMxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "ЦБ готовит оплату цифровыми рублями без доступа к интернету",
-    "link": "https://www.vedomosti.ru/finance/news/2026/08/21/1222776-tsb-gotovit-oplatu",
-    "explanation": "Банк России готовит возможность оплат цифровым рублём без доступа к интернету: регулятор тестирует офлайн‑режим работы цифрового кошелька и протоколы для передачи платежей между устройствами. Пилоты и сроки внедрения пока не объявлены.",
-    "date": "2026-08-22T07:47:04.645758",
-    "category": "finance",
-    "image": "https://cdn.vdmsti.ru/image/2026/6h/phroa/normal-x1f.jpg"
+    "title": "Продавцы без сайтов смогут получать заказы из Поиска и чата с Алисой AI",
+    "link": "https://www.retail.ru/news/prodavtsy-bez-saytov-smogut-poluchat-zakazy-iz-poiska-i-chata-s-alisoy-ai-21-avgusta-2026-281279/",
+    "explanation": "Яндекс позволит продавцам без сайтов принимать заказы прямо из Поиска и чата с Алисой AI.",
+    "date": "2026-08-22T10:33:43.881499",
+    "category": "retail",
+    "image": "https://www.retail.ru/upload/iblock/a89/a11bpav186tsqvbiapzxpjmq1mozvas0/Group_2.jpg"
   },
   {
     "title": "«М.Видео» и «Яндекс» объединили рекламные возможности на платформе «Яндекс Ритейл Медиа»",
